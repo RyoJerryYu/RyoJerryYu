@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi👋, I'm RyoJerryYu.
+
+[My Blog Here](https://RyoJerryYu.github.io)
 
 [![AWS Certified Solutions Architect – Associate](assets/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/b73ee111-8813-418a-b0e5-e8db234bbef9/public_url)
 
