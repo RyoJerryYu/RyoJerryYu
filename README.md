@@ -2,9 +2,9 @@
 
 [![AWS Certified Solutions Architect – Associate](assets/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/b73ee111-8813-418a-b0e5-e8db234bbef9/public_url)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyoJerryYu&layout=compact&show_icons=true&theme=cobalt)](https://github.com/RyoJerryYu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyoJerryYu&layout=compact&show_icons=true&theme=cobalt)](https://github.com/RyoJerryYu)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyoJerryYu&show_icons=true&theme=cobalt)](https://github.com/RyoJerryYu/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyoJerryYu&show_icons=true&theme=cobalt)](https://github.com/RyoJerryYu)
 
 <!--
 **RyoJerryYu/RyoJerryYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
