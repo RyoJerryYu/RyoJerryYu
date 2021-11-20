@@ -4,7 +4,7 @@
 [![AWS Certified Solutions Architect – Associate](assets/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/b73ee111-8813-418a-b0e5-e8db234bbef9/public_url)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoJerryYu&layout=compact&show_icons=true&title_color=d7bebb&text_color=eaedf5&icon_color=96acc1&bg_color=10394f&card_width=445"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoJerryYu&layout=compact&show_icons=true&title_color=d7bebb&text_color=eaedf5&icon_color=96acc1&bg_color=10394f&card_width=445&langs_count=10&exclude_repo=RyoJerryYu.GitHub.io"/>
   
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyoJerryYu&show_icons=true&title_color=d7bebb&text_color=eaedf5&icon_color=96acc1&bg_color=10394f"/>
