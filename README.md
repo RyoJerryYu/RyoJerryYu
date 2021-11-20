@@ -11,7 +11,7 @@
 
 ### My Blog
 
-[![Blog](https://img.shields.io/badge/-Click%20Here%20To%20Visit%20My%20Blog-193549?style=for-the-badge)](https://RyoJerryYu.github.io)
+[![Blog](https://img.shields.io/badge/-Click%20Here%20To%20Visit%20My%20Blog-10394f?style=for-the-badge)](https://RyoJerryYu.github.io)
 
 ### Language
 
