@@ -4,10 +4,10 @@
 [![AWS Certified Solutions Architect – Associate](assets/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/b73ee111-8813-418a-b0e5-e8db234bbef9/public_url)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoJerryYu&layout=compact&show_icons=truee&title_color=0e5797&text_color=eaedf5&icon_color=e5e545&bg_color=56bda8&card_width=445&langs_count=10&exclude_repo=RyoJerryYu.GitHub.io"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoJerryYu&layout=compact&show_icons=truee&title_color=0965ba&text_color=eaedf5&icon_color=e5e545&bg_color=56bda8&card_width=445&langs_count=10&exclude_repo=RyoJerryYu.GitHub.io"/>
   
   
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RyoJerryYu&show_icons=true&title_color=0e5797&text_color=eaedf5&icon_color=e5e545&bg_color=56bda8"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RyoJerryYu&show_icons=true&title_color=0965ba&text_color=eaedf5&icon_color=e5e545&bg_color=56bda8"/>
 
 ### My Blog
 
