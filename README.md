@@ -3,15 +3,15 @@
 
 [![AWS Certified Solutions Architect – Associate](assets/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/b73ee111-8813-418a-b0e5-e8db234bbef9/public_url)
 
+### My Blog
+
+[![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge&labelColor=4bbed5)](https://RyoJerryYu.github.io)
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoJerryYu&layout=compact&show_icons=truee&title_color=e5e545&text_color=f5f8e6&icon_color=4bbed5&bg_color=18244a&card_width=445&langs_count=10&exclude_repo=RyoJerryYu.GitHub.io"/>
   
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyoJerryYu&show_icons=true&title_color=e5e545&text_color=f5f8e6&icon_color=4bbed5&bg_color=18244a"/>
-
-### My Blog
-
-[![Blog](https://img.shields.io/badge/-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge)](https://RyoJerryYu.github.io)
 
 ### Language
 
@@ -21,7 +21,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-18244a?style=flat-square&logo=TypeScript&logoColor=4bbed5)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-18244a?style=flat-square&logo=Kotlin&logoColor=4bbed5)
 ![Java](https://img.shields.io/badge/-Java-18244a?style=flat-square&logo=Java&logoColor=4bbed5)
-![C++](https://img.shields.io/badge/-C++-18244a?style=flat-square&logo=C%2B%2B&logoColor=4bbed5)
+![C++](https://img.shields.io/badge/-C++-18244a?style=flat-square&logo=cplusplus&logoColor=4bbed5)
   
 ### Framworks and tools
 
