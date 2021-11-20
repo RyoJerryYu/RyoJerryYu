@@ -6,22 +6,26 @@
 
 ### Language
 
-![Python](https://img.shields.io/badge/-Python-193549?style=flat-square&logo=python)
 ![Go](https://img.shields.io/badge/-Go-193549?style=flat-square&logo=go)
+![Python](https://img.shields.io/badge/-Python-193549?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-193549?style=flat-square&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-193549?style=flat-square&logo=TypeScript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-193549?style=flat-square&logo=Kotlin)
 ![Java](https://img.shields.io/badge/-Java-193549?style=flat-square&logo=Java)
 ![C++](https://img.shields.io/badge/-C++-193549?style=flat-square&logo=C%2B%2B)
 
-### Framworks
+### Framworks and tools
 
+![Docker](https://img.shields.io/badge/-Docker-193549?style=flat-square&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-193549?style=flat-square&logo=Kubernetes)
+![NGINX](https://img.shields.io/badge/-NGINX-193549?style=flat-square&logo=NGINX)
+![MySQL](https://img.shields.io/badge/-MySQL-193549?style=flat-square&logo=MySQL)
+![SQL Server](https://img.shields.io/badge/-SQLServer-193549?style=flat-square&logo=microsoft-sql-server)
+![Redis](https://img.shields.io/badge/-Redis-193549?style=flat-square&logo=Redis)
+![MongoDB](https://img.shields.io/badge/-MongoDB-193549?style=flat-square&logo=MongoDB)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-193549?style=flat-square&logo=vue.js)
 ![Flask](https://img.shields.io/badge/-Flask-193549?style=flat-square&logo=Flask)
-
-### tools
-
-![MySQL](https://img.shields.io/badge/-MySQL-193549?style=flat-square&logo=MySQL)
-![Redis](https://img.shields.io/badge/-Redis-193549?style=flat-square&logo=Redis)
+![Gin](https://img.shields.io/badge/-Gin-193549?style=flat-square)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyoJerryYu&layout=compact&show_icons=true&theme=cobalt)](https://github.com/RyoJerryYu)
