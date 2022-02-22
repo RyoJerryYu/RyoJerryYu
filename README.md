@@ -28,13 +28,16 @@
 ![Docker](https://img.shields.io/badge/-Docker-18244a?style=flat-square&logo=Docker&logoColor=4bbed5)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-18244a?style=flat-square&logo=Kubernetes&logoColor=4bbed5)
 ![NGINX](https://img.shields.io/badge/-NGINX-18244a?style=flat-square&logo=NGINX&logoColor=4bbed5)
+![Pulumi](https://img.shields.io/badge/-Pulumi-18244a?style=flat-square&logo=Pulumi&logoColor=4bbed5)
+![Ansible](https://img.shields.io/badge/-Ansible-18244a?style=flat-square&logo=Ansible&logoColor=4bbed5)
+![Jenkins](https://img.shields.io/badge/-Jenkins-18244a?style=flat-square&logo=Jenkins&logoColor=4bbed5)
 ![MySQL](https://img.shields.io/badge/-MySQL-18244a?style=flat-square&logo=MySQL&logoColor=4bbed5)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-18244a?style=flat-square&logo=microsoft-sql-server&logoColor=4bbed5)
 ![Redis](https://img.shields.io/badge/-Redis-18244a?style=flat-square&logo=Redis&logoColor=4bbed5)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-18244a?style=flat-square&logo=MongoDB&logoColor=4bbed5)
+![Vue.js](https://img.shields.io/badge/-React-18244a?style=flat-square&logo=React&logoColor=4bbed5)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-18244a?style=flat-square&logo=vue.js&logoColor=4bbed5)
 ![Flask](https://img.shields.io/badge/-Flask-18244a?style=flat-square&logo=Flask&logoColor=4bbed5)
-![Gin](https://img.shields.io/badge/-Gin-18244a?style=flat-square&logoColor=4bbed5)
   
 <!--
 **RyoJerryYu/RyoJerryYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
