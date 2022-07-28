@@ -1,11 +1,7 @@
 
-### Hi👋, I'm RyoJerryYu.
+### Hi👋, I'm RyoJerryYu. [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge&labelColor=4bbed5)](https://blog.ryo-okami.xyz/)
 
 [![AWS Certified Solutions Architect – Associate](assets/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/b73ee111-8813-418a-b0e5-e8db234bbef9/public_url)
-
-### My Blog
-
-[![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge&labelColor=4bbed5)](https://blog.ryo-okami.xyz/)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoJerryYu&layout=compact&show_icons=truee&title_color=e5e545&text_color=f5f8e6&icon_color=4bbed5&bg_color=18244a&card_width=445&langs_count=10&exclude_repo=RyoJerryYu.GitHub.io&hide=HTML,CSS"/>
