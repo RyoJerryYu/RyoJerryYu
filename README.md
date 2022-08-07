@@ -15,8 +15,9 @@
 
 ![Go](https://img.shields.io/badge/-Go-18244a?style=flat-square&logo=go&logoColor=4bbed5)
 ![Python](https://img.shields.io/badge/-Python-18244a?style=flat-square&logo=python&logoColor=4bbed5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-18244a?style=flat-square&logo=JavaScript&logoColor=4bbed5)
+![Rust](https://img.shields.io/badge/-Rust-18244a?style=flat-square&logo=rust&logoColor=4bbed5)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-18244a?style=flat-square&logo=TypeScript&logoColor=4bbed5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-18244a?style=flat-square&logo=JavaScript&logoColor=4bbed5)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-18244a?style=flat-square&logo=Kotlin&logoColor=4bbed5)
 ![Java](https://img.shields.io/badge/-Java-18244a?style=flat-square&logo=Java&logoColor=4bbed5)
 ![C++](https://img.shields.io/badge/-C++-18244a?style=flat-square&logo=cplusplus&logoColor=4bbed5)
