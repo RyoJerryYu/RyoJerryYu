@@ -65,11 +65,11 @@ def github_info(token: str):
   # recent commits and repo count
   for repo in g.get_user().get_repos(sort='pushed', direction='desc'):
     if repo.pushed_at > a_week_ago:
-      recent_commit_cnt = repo.get_commits(
+      repo_recent_commit_cnt = repo.get_commits(
           since=a_week_ago, until=now, author=g.get_user()).totalCount
-      if recent_commit_cnt > 0:
+      if repo_recent_commit_cnt > 0:
         recent_repo_cnt += 1
-        recent_commit_cnt += recent_commit_cnt
+        recent_commit_cnt += repo_recent_commit_cnt
     else:
       break
 
