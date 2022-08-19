@@ -33,6 +33,8 @@ jobs:
       
       - name: Update Readme
         run: python main.py
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         
       - name: Commit and push
         run: |
