@@ -1,6 +1,11 @@
 
 ### Hi👋, I'm RyoJerryYu. 
 
+- My most starred GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 15 stars.
+- My most forked GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 2 forks.
+- In last 7 days, I have 4 commits, in 6 repositories.
+- Just on 08/19, at 20:08:35, I pushed a commit in [RyoJerryYu](https://github.com/RyoJerryYu/RyoJerryYu).
+
 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge&labelColor=4bbed5)](https://blog.ryo-okami.xyz/)
 
 [![AWS Certified Solutions Architect – Associate](assets/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/b73ee111-8813-418a-b0e5-e8db234bbef9/public_url)
