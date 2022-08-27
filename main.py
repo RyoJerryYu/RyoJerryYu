@@ -117,13 +117,14 @@ if __name__ == '__main__':
       'cloud_native': [
           badge_struct('Docker', 'Docker'),
           badge_struct('Kubernetes', 'Kubernetes'),
-          badge_struct('Helm', 'helm'),
           badge_struct('Istio', 'istio'),
           badge_struct('OpenTelemetry', 'OpenTelemetry'),
           badge_struct('Prometheus', 'Prometheus'),
           badge_struct('Fluent Bit', 'fluentbit'),
           badge_struct('Pulumi', 'Pulumi'),
           badge_struct('Ansible', 'Ansible'),
+          badge_struct('Argo CD', 'argo'),
+          badge_struct('Tekton', 'tekton'),
       ],
       'skills': [
           badge_struct('Jenkins', 'Jenkins'),

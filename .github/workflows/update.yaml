@@ -1,4 +1,4 @@
-name: Play_TicTacToe
+name: Update Readme
 on:
   push:
     branches: [ main ]
