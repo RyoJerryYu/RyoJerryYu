@@ -46,6 +46,7 @@ def github_info(token: str):
 
   recent_commit_cnt = 0
   recent_repo_cnt = 0
+  updated_at_str = datetime.datetime.now().strftime(r'%m/%d, %H:%M:%S')
 
   # most starred and forked repo
   for repo in g.get_user().get_repos():
@@ -94,6 +95,7 @@ def github_info(token: str):
       'most_recent_committed_repo': most_recent_committed_repo,
       'recent_commit_cnt': recent_commit_cnt,
       'recent_repo_cnt': recent_repo_cnt,
+      'updated_at_str': updated_at_str,
   }
 
 
