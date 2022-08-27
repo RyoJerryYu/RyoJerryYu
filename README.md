@@ -3,8 +3,8 @@
 
 - My most starred GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 15 stars.
 - My most forked GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 2 forks.
-- In last 7 days, I have 64 commits, in 8 repositories.
-- Just on 08/25, at 16:48:24, I pushed a commit in [RyoJerryYu](https://github.com/RyoJerryYu/RyoJerryYu).
+- In last 7 days, I have 56 commits, in 7 repositories.
+- Just on 08/27, at 14:31:33, I pushed a commit in [RyoJerryYu](https://github.com/RyoJerryYu/RyoJerryYu).
 
 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge&labelColor=4bbed5)](https://blog.ryo-okami.xyz/)
 
@@ -32,13 +32,14 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-18244a?style=flat-square&logo=Docker&logoColor=4bbed5)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-18244a?style=flat-square&logo=Kubernetes&logoColor=4bbed5)
-![Helm](https://img.shields.io/badge/-Helm-18244a?style=flat-square&logo=helm&logoColor=4bbed5)
 ![Istio](https://img.shields.io/badge/-Istio-18244a?style=flat-square&logo=istio&logoColor=4bbed5)
 ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-18244a?style=flat-square&logo=OpenTelemetry&logoColor=4bbed5)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-18244a?style=flat-square&logo=Prometheus&logoColor=4bbed5)
 ![Fluent%20Bit](https://img.shields.io/badge/-Fluent%20Bit-18244a?style=flat-square&logo=fluentbit&logoColor=4bbed5)
 ![Pulumi](https://img.shields.io/badge/-Pulumi-18244a?style=flat-square&logo=Pulumi&logoColor=4bbed5)
 ![Ansible](https://img.shields.io/badge/-Ansible-18244a?style=flat-square&logo=Ansible&logoColor=4bbed5)
+![Argo%20CD](https://img.shields.io/badge/-Argo%20CD-18244a?style=flat-square&logo=argo&logoColor=4bbed5)
+![Tekton](https://img.shields.io/badge/-Tekton-18244a?style=flat-square&logo=tekton&logoColor=4bbed5)
 
 
 ### Other Framworks and Tools
