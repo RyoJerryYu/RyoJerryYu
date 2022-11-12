@@ -6,7 +6,7 @@ on:
     branches: [ main ]
   workflow_dispatch:
   schedule:
-    - cron: '15 16 * * *' # every 00:15 +08:00
+    - cron: '15 04 * * *' # every 12:15 +08:00
 
 jobs:
   update_readme:
