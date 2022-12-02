@@ -1,12 +1,12 @@
 
 ### Hi👋, I'm RyoJerryYu. 
 
-- My most starred GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 15 stars.
+- My most starred GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 16 stars.
 - My most forked GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 2 forks.
-- In last 7 days, I have 26 commits, in 5 repositories.
-- Just on 11/30, at 04:21:27 (UTC), I pushed a commit in [RyoJerryYu](https://github.com/RyoJerryYu/RyoJerryYu).
+- In last 7 days, I have 30 commits, in 5 repositories.
+- Just on 12/01, at 04:21:30 (UTC), I pushed a commit in [RyoJerryYu](https://github.com/RyoJerryYu/RyoJerryYu).
 
-*updated: 12/01, 04:21:22 (UTC).*
+*updated: 12/02, 04:21:00 (UTC).*
 
 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge&labelColor=4bbed5)](https://blog.ryo-okami.xyz/)
 
