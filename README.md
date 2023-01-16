@@ -4,9 +4,9 @@
 - My most starred GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 16 stars.
 - My most forked GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 2 forks.
 - In last 7 days, I have 70 commits, in 5 repositories.
-- Just on 01/14, at 04:20:55 (UTC), I pushed a commit in [RyoJerryYu](https://github.com/RyoJerryYu/RyoJerryYu).
+- Just on 07/27, at 16:11:28 (UTC), I pushed a commit in [games101-rust-framework](https://github.com/RyoJerryYu/games101-rust-framework).
 
-*updated: 01/15, 04:20:43 (UTC).*
+*updated: 01/16, 04:20:57 (UTC).*
 
 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge&labelColor=4bbed5)](https://blog.ryo-okami.xyz/)
 
