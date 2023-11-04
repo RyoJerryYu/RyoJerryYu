@@ -3,10 +3,10 @@
 
 - My most starred GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 17 stars.
 - My most forked GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 3 forks.
-- In last 7 days, I have 67 commits, in 6 repositories.
-- Just on 11/02, at 19:34:08 (UTC), I pushed a commit in [go-jsonschema](https://github.com/RyoJerryYu/go-jsonschema).
+- In last 7 days, I have 59 commits, in 5 repositories.
+- Just on 11/03, at 17:22:01 (UTC), I pushed a commit in [pokemon-vault](https://github.com/RyoJerryYu/pokemon-vault).
 
-*updated: 11/03, 04:20:25 (UTC).*
+*updated: 11/04, 04:20:18 (UTC).*
 
 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge&labelColor=4bbed5)](https://blog.ryo-okami.xyz/)
 
