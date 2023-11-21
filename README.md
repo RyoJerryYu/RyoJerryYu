@@ -3,10 +3,10 @@
 
 - My most starred GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 17 stars.
 - My most forked GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 3 forks.
-- In last 7 days, I have 32 commits, in 2 repositories.
-- Just on 11/19, at 04:20:32 (UTC), I pushed a commit in [RyoJerryYu](https://github.com/RyoJerryYu/RyoJerryYu).
+- In last 7 days, I have 6 commits, in 1 repositories.
+- Just on 11/20, at 04:20:54 (UTC), I pushed a commit in [RyoJerryYu](https://github.com/RyoJerryYu/RyoJerryYu).
 
-*updated: 11/20, 04:20:47 (UTC).*
+*updated: 11/21, 04:20:39 (UTC).*
 
 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge&labelColor=4bbed5)](https://blog.ryo-okami.xyz/)
 
