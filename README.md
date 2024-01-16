@@ -6,7 +6,7 @@
 - In last 7 days, I have 19 commits, in 2 repositories.
 - Just on 11/06, at 08:29:34 (UTC), I pushed a commit in [pokeapi-go](https://github.com/RyoJerryYu/pokeapi-go).
 
-*updated: 01/15, 04:20:52 (UTC).*
+*updated: 01/16, 04:20:44 (UTC).*
 
 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge&labelColor=4bbed5)](https://blog.ryo-okami.xyz/)
 
