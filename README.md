@@ -3,17 +3,17 @@
 
 - My most starred GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 19 stars.
 - My most forked GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 3 forks.
-- In last 7 days, I have 49 commits, in 4 repositories.
-- Just on 05/24, at 15:45:00 (UTC), I pushed a commit in [blog-next](https://github.com/RyoJerryYu/blog-next).
+- In last 7 days, I have 44 commits, in 4 repositories.
+- Just on 05/30, at 18:40:49 (UTC), I pushed a commit in [RyoJerryYu](https://github.com/RyoJerryYu/RyoJerryYu).
 
-*updated: 05/30, 04:21:13 (UTC).*
+*updated: 05/30, 18:41:03 (UTC).*
 
 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge&labelColor=4bbed5)](https://blog.ryo-okami.xyz/)
 
 [![AWS Certified Solutions Architect – Associate](assets/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/b73ee111-8813-418a-b0e5-e8db234bbef9/public_url)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoJerryYu&layout=compact&show_icons=truee&title_color=e5e545&text_color=f5f8e6&icon_color=4bbed5&bg_color=18244a&card_width=445&langs_count=10&exclude_repo=RyoJerryYu.GitHub.io,obsidian-memos-sync&hide=HTML,CSS"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoJerryYu&layout=compact&show_icons=truee&title_color=e5e545&text_color=f5f8e6&icon_color=4bbed5&bg_color=18244a&card_width=445&langs_count=10&exclude_repo=RyoJerryYu.GitHub.io&hide=HTML,CSS"/>
   
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyoJerryYu&show_icons=true&title_color=e5e545&text_color=f5f8e6&icon_color=4bbed5&bg_color=18244a"/>
