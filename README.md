@@ -6,7 +6,7 @@
 - In last 7 days, I have 7 commits, in 1 repositories.
 - Just on 05/24, at 15:45:00 (UTC), I pushed a commit in [blog-next](https://github.com/RyoJerryYu/blog-next).
 
-*updated: 07/12, 04:20:44 (UTC).*
+*updated: 07/13, 04:20:48 (UTC).*
 
 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge&labelColor=4bbed5)](https://blog.ryo-okami.xyz/)
 
