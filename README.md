@@ -1,12 +1,12 @@
 
 ### Hi👋, I'm RyoJerryYu. 
 
-- My most starred GitHub repo is: [obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync), with 31 stars.
+- My most starred GitHub repo is: [obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync), with 32 stars.
 - My most forked GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 3 forks.
 - In last 7 days, I have 7 commits, in 1 repositories.
 - Just on 05/24, at 15:45:00 (UTC), I pushed a commit in [blog-next](https://github.com/RyoJerryYu/blog-next).
 
-*updated: 10/18, 04:21:24 (UTC).*
+*updated: 10/19, 04:21:06 (UTC).*
 
 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge&labelColor=4bbed5)](https://blog.ryo-okami.xyz/)
 
