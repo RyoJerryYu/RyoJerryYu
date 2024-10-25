@@ -3,10 +3,10 @@
 
 - My most starred GitHub repo is: [obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync), with 32 stars.
 - My most forked GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 3 forks.
-- In last 7 days, I have 12 commits, in 3 repositories.
-- Just on 10/24, at 01:53:54 (UTC), I pushed a commit in [go-utilx](https://github.com/RyoJerryYu/go-utilx).
+- In last 7 days, I have 21 commits, in 4 repositories.
+- Just on 10/25, at 02:52:18 (UTC), I pushed a commit in [protoc-gen-go-json](https://github.com/RyoJerryYu/protoc-gen-go-json).
 
-*updated: 10/24, 04:21:20 (UTC).*
+*updated: 10/25, 04:21:40 (UTC).*
 
 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge&labelColor=4bbed5)](https://blog.ryo-okami.xyz/)
 
