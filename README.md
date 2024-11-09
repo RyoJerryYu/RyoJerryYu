@@ -3,10 +3,10 @@
 
 - My most starred GitHub repo is: [obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync), with 33 stars.
 - My most forked GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 3 forks.
-- In last 7 days, I have 30 commits, in 6 repositories.
-- Just on 10/25, at 16:34:11 (UTC), I pushed a commit in [blog-next](https://github.com/RyoJerryYu/blog-next).
+- In last 7 days, I have 23 commits, in 6 repositories.
+- Just on 11/08, at 08:39:20 (UTC), I pushed a commit in [protoc-gen-pluginx](https://github.com/RyoJerryYu/protoc-gen-pluginx).
 
-*updated: 11/08, 04:21:25 (UTC).*
+*updated: 11/09, 04:21:02 (UTC).*
 
 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-18244a?style=for-the-badge&labelColor=4bbed5)](https://blog.ryo-okami.xyz/)
 
