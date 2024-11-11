@@ -105,6 +105,7 @@ if __name__ == '__main__':
       'colors': {
           'background_color': '18244a',
           'logo_color': '4bbed5',
+          'theme_name': 'tokyonight',
       },
       'languages': [
           badge_struct('Go', 'go'),
