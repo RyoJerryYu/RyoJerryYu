@@ -103,8 +103,10 @@ if __name__ == '__main__':
   github_info_res = github_info(os.getenv('GH_TOKEN'))
   data = {
       'colors': {
-          'background_color': '18244a',
-          'logo_color': '4bbed5',
+          # theme from https://github.com/ryo-ma/github-profile-trophy/blob/87376e56fd0ed0ce8e7c39da8f4080ca903577e4/src/theme.ts#L581
+          'background_color': '282c34',
+          'logo_color': 'e5c07b',
+          'theme_name': 'onedark',
       },
       'languages': [
           badge_struct('Go', 'go'),
