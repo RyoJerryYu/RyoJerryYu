@@ -103,8 +103,8 @@ if __name__ == '__main__':
   github_info_res = github_info(os.getenv('GH_TOKEN'))
   data = {
       'colors': {
-          'background_color': '18244a',
-          'logo_color': '4bbed5',
+          'background_color': '1a1b27',
+          'logo_color': '70a5fd',
           'theme_name': 'tokyonight',
       },
       'languages': [
