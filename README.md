@@ -3,11 +3,11 @@
 
 - ⭐ My most starred GitHub repo is: [obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync), with 33 stars.
 - 🔱 My most forked GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 3 forks.
-- 📈 In last 7 days, I have 38 commits, in 6 repositories.
-- ⏰ Just on 11/11, at 07:32:29 (UTC), I pushed a commit in [RyoJerryYu](https://github.com/RyoJerryYu/RyoJerryYu).
+- 📈 In last 7 days, I have 39 commits, in 6 repositories.
+- ⏰ Just on 11/11, at 07:32:49 (UTC), I pushed a commit in [RyoJerryYu](https://github.com/RyoJerryYu/RyoJerryYu).
 - 💞 Learn more about me from my blog: 👉 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-282c34?style=for-the-badge&labelColor=e5c07b)](https://blog.ryo-okami.xyz/) 👈
 
-*updated: 11/11, 07:32:45 (UTC).*
+*updated: 11/11, 07:50:23 (UTC).*
 
 
 [![AWS Certified Solutions Architect – Associate](assets/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/b73ee111-8813-418a-b0e5-e8db234bbef9/public_url)
@@ -15,10 +15,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RyoJerryYu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoJerryYu&layout=compact&show_icons=true&theme=onedark&card_width=445&langs_count=10&exclude_repo=RyoJerryYu.GitHub.io&hide=HTML,CSS"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoJerryYu&layout=compact&show_icons=true&theme=onedark&card_width=465&langs_count=10&exclude_repo=RyoJerryYu.GitHub.io&hide=HTML,CSS"/>
   
   
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=RyoJerryYu&show_icons=true&theme=onedark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=RyoJerryYu&show_icons=true&theme=onedark&card_width=465"/>
 </p>
 
 ### Language
