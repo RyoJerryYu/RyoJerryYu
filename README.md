@@ -1,13 +1,13 @@
 
 ### Hi👋, I'm RyoJerryYu. 
 
-- ⭐ My most starred GitHub repo is: [obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync), with 38 stars.
+- ⭐ My most starred GitHub repo is: [obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync), with 39 stars.
 - 🔱 My most forked GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 3 forks.
-- 📈 In last 7 days, I have 71 commits, in 4 repositories.
-- ⏰ Just on 01/04, at 05:31:54 (UTC), I pushed a commit in [protoc-gen-pluginx](https://github.com/RyoJerryYu/protoc-gen-pluginx).
+- 📈 In last 7 days, I have 89 commits, in 4 repositories.
+- ⏰ Just on 01/06, at 03:19:24 (UTC), I pushed a commit in [protoc-gen-pluginx](https://github.com/RyoJerryYu/protoc-gen-pluginx).
 - 💞 Learn more about me from my blog: 👉 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-282c34?style=for-the-badge&labelColor=e5c07b)](https://blog.ryo-okami.xyz/) 👈
 
-*updated: 01/05, 04:21:03 (UTC).*
+*updated: 01/06, 04:21:21 (UTC).*
 
 
 [![AWS Certified Solutions Architect – Associate](assets/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/b73ee111-8813-418a-b0e5-e8db234bbef9/public_url)
