@@ -3,11 +3,11 @@
 
 - ⭐ My most starred GitHub repo is: [obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync), with 40 stars.
 - 🔱 My most forked GitHub repo is: [autoLive](https://github.com/RyoJerryYu/autoLive), with 3 forks.
-- 📈 In last 7 days, I have 69 commits, in 6 repositories.
-- ⏰ Just on 01/12, at 12:17:27 (UTC), I pushed a commit in [obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync).
+- 📈 In last 7 days, I have 68 commits, in 6 repositories.
+- ⏰ Just on 12/17, at 06:57:38 (UTC), I pushed a commit in [blog-next](https://github.com/RyoJerryYu/blog-next).
 - 💞 Learn more about me from my blog: 👉 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-282c34?style=for-the-badge&labelColor=e5c07b)](https://blog.ryo-okami.xyz/) 👈
 
-*updated: 01/13, 04:21:47 (UTC).*
+*updated: 01/14, 04:21:07 (UTC).*
 
 
 [![AWS Certified Solutions Architect – Associate](assets/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/b73ee111-8813-418a-b0e5-e8db234bbef9/public_url)
