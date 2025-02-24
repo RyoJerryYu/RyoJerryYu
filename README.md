@@ -1,13 +1,13 @@
 
 ### Hi👋, I'm RyoJerryYu. 
 
-- ⭐ My most starred GitHub repo is: [obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync), with 46 stars.
+- ⭐ My most starred GitHub repo is: [obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync), with 47 stars.
 - 🔱 My most forked GitHub repo is: [obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync), with 4 forks.
-- 📈 In last 7 days, I have 9 commits, in 2 repositories.
-- ⏰ Just on 05/31, at 14:52:59 (UTC), I pushed a commit in [pokeapi-go](https://github.com/RyoJerryYu/pokeapi-go).
+- 📈 In last 7 days, I have 17 commits, in 3 repositories.
+- ⏰ Just on 02/23, at 16:53:22 (UTC), I pushed a commit in [lab0-0-setup-env-run-os1-RyoJerryYu](https://github.com/LearningOS/lab0-0-setup-env-run-os1-RyoJerryYu).
 - 💞 Learn more about me from my blog: 👉 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-282c34?style=for-the-badge&labelColor=e5c07b)](https://blog.ryo-okami.xyz/) 👈
 
-*updated: 02/23, 04:21:09 (UTC).*
+*updated: 02/24, 04:21:19 (UTC).*
 
 
 [![AWS Certified Solutions Architect – Associate](assets/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/b73ee111-8813-418a-b0e5-e8db234bbef9/public_url)
