@@ -7,7 +7,7 @@
 - ⏰ Just on 06/18, at 02:11:23 (UTC), I pushed a commit in [blog-next](https://github.com/RyoJerryYu/blog-next).
 - 💞 Learn more about me from my blog: 👉 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-282c34?style=for-the-badge&labelColor=e5c07b)](https://blog.ryo-okami.xyz/) 👈
 
-*updated: 06/18, 05:52:14 (UTC).*
+*updated: 06/19, 05:58:15 (UTC).*
 
 
 [![AWS Certified Solutions Architect – Associate](assets/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/b73ee111-8813-418a-b0e5-e8db234bbef9/public_url)
