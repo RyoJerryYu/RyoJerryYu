@@ -4,10 +4,10 @@
 - ⭐ My most starred GitHub repo is: [obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync), with 80 stars.
 - 🔱 My most forked GitHub repo is: [obsidian-memos-sync](https://github.com/RyoJerryYu/obsidian-memos-sync), with 18 forks.
 - 📈 In last 7 days, I have 6 commits, in 1 repositories.
-- ⏰ Just on 08/17, at 10:56:18 (UTC), I pushed a commit in [MagicPot-Terrarium](https://github.com/MagicPotTeam/MagicPot-Terrarium).
+- ⏰ Just on 08/24, at 11:47:35 (UTC), I pushed a commit in [MagicPot-Terrarium](https://github.com/MagicPotTeam/MagicPot-Terrarium).
 - 💞 Learn more about me from my blog: 👉 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-282c34?style=for-the-badge&labelColor=e5c07b)](https://blog.ryo-okami.xyz/) 👈
 
-*updated: 08/24, 04:58:27 (UTC).*
+*updated: 08/25, 04:50:37 (UTC).*
 
 
 [![AWS Certified Solutions Architect – Associate](assets/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/b73ee111-8813-418a-b0e5-e8db234bbef9/public_url)
