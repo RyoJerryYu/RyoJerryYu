@@ -7,7 +7,7 @@
 - ⏰ Just on 10/29, at 18:56:53 (UTC), I pushed a commit in [MagicPot-Terrarium](https://github.com/MagicPotTeam/MagicPot-Terrarium).
 - 💞 Learn more about me from my blog: 👉 [![Blog](https://img.shields.io/badge/-->-Click%20Here%20To%20Visit%20My%20Blog-282c34?style=for-the-badge&labelColor=e5c07b)](https://blog.ryo-okami.xyz/) 👈
 
-*updated: 11/13, 12:06:56 (UTC).*
+*updated: 11/14, 11:24:49 (UTC).*
 
 
 [![AWS Certified Solutions Architect – Associate](assets/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/b73ee111-8813-418a-b0e5-e8db234bbef9/public_url)
